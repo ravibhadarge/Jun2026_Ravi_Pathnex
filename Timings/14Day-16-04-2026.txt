@@ -1,0 +1,26 @@
+----------------    What I Learn Today   ----------
+
+deployment.yaml
+statefulset.yaml
+daemonset.yaml
+
+git clone git@github.com:Pathnex/pathnex-eks
+
+laptop to direct connect with eks cluster 
+jump server connect to eks cluster 
+laptop to node connect ---- with help of security group
+If any connectivity issue check always Security Group 
+
+Practice all these things like enter in pod 
+kubectl exec -it pod -- /bin/bash
+
+Affinity , Node affinity , pod affinity , pod anti affinity , taint and toleration
+probe
+nod to nod networking
+service Discovery
+Network Policy
+
+ --------  Tomorrow Task  --------
+
+Kubernetes Practical further 
+  

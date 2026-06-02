@@ -1,0 +1,31 @@
+------------     What I Learn Today  --------------
+
+upgrade cluster version 
+1.33 ---> 1.34 ------> 1.35
+not direct jump 1.33 ----> 1.35  -----> it goes 1.33 to 1.34 and then 1.35
+
+k get nodes
+went into pod with help of security group 
+
+kubectl exec -it podID  -n namespace 
+
+
+taint , toleration -----> 3 common effects of Taint 
+NOSchedule
+PreferNoSchedule
+NoExecute 
+
+Probe for Health checs for the application Contaier 
+
+3 types probe ----> Liveness Probe , Readiness Probe , Startup Probe 
+
+why robe Matters in eks
+
+two ways to deploy th eapplication , 
+1. standard production flow ( NGINX Ingress )
+2. Mesh flow ( Istio )
+
+ ------------   Tomorrow Task -------------  
+Helm ---> to manage yaml files 
+
+

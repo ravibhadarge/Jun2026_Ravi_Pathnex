@@ -1,0 +1,39 @@
+---------    What I Learn Today  --------
+
+Docker 
+docker image 
+dokcer file --- FROM WORKDIR COPY RUN EXPOSE CMD
+
+DOCKERFILE-- DOCKER IMAGE --- DOCKER CONTAINER
+
+DOCKER DAEMON 
+DOCKER COMPOSE 
+DOCKER REGISTRY 
+DOCKER NETWORKING --- NETWORK TYPE --- BRIDGE, HOST, OVERLAY, NONE
+
+DOCKER VOLUME 
+DOCKER IS  EPHIMERAL MEANS -- WHEN CONTAINER NOT IN USE, DELETE AUTOMATICALLY
+
+DOCKER SWARM --- OWN ORCHESTRATION TOOL 
+
+
+docker build -t image -f dockerfile .
+docker run -d -p 80:3000 --name cantainer 
+
+docker ps 
+docker ps -a
+docker images
+docker rmi image
+docker stop id
+docker rm id/conatiner name 
+
+docker prune 
+
+
+
+
+---------   Tomorrow Task  -------
+
+K8s 
+
+

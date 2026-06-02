@@ -1,0 +1,21 @@
+---------- what I did Today -------
+I created an ec2 instance and then practice git .
+but I stuck in an issue it took 1-2 hours to get resolved ,
+i am  just telling what was the issue 
+i made a repo on github account and then i was cloning on my local like on ec2
+i making mistake again and again besides following the steps that 
+neeraj bhai has provided on his repo pathnex, start with git ,
+the mistake was i was cloning with url like https;//github....
+but what i have to do instead of this
+git clone git@github.come:username/reponame.git
+this was the minor mistake it took my  2hours to get understand what is the exact issue , 
+i was facing error in pushing again and again 
+becuase i did it 7-8 with my complete focus yet i was making same mistake on every practice
+so that's issue today I face.
+
+
+
+
+------------- Tomorrow -----------
+
+

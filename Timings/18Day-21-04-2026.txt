@@ -1,0 +1,18 @@
+--------------- What I Learn Today   -------------
+
+Terraform
+Its IAC tool used to define and provision data center infrastructure using a high level language called HCL Hashicorp Configuration Language .
+
+Key Concept of Terraform 
+1. Provider
+2. Resources
+3. Modules
+4. StateFile
+
+Why Use Terraform 
+1. declarative syntax
+2. Infrastructure as a code
+3. Platform Agnostic
+
+-------- Tomorrow Task  -------
+Deep dive in Terraform 

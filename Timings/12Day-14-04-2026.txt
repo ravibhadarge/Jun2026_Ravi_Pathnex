@@ -1,0 +1,23 @@
+-----------   What I Learn Today    ---------
+
+How to create eks cluster 
+create master node and worker node 
+how to connect ec2 with eks cluster
+aws configure
+create Role policy , attach policy to ec2 
+security group
+in eks cluster -- resources -- pods , deployment, replicasets
+compute -- create nodes -- nodes group
+
+
+troubleshoot --- crash loop back error --- resolve
+
+with help of chatgpt
+
+
+--------- Tomorrow Task -------
+
+kubernetes practical
+
+
+ 

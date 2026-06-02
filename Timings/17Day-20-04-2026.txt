@@ -1,0 +1,18 @@
+----------------   What I Learn Today   ----------
+
+Helm 
+Argo CD -----> Means Argo Continuous Delivery 
+Argo CD continuously monitors Git Repository ans Sync changes to k8s Cluster.
+
+make a app
+nginx 
+Grafana
+ login in Argo CD app and  Monitors 
+
+
+
+
+--------     Tomorrow  Task --------
+ Terraform 
+
+

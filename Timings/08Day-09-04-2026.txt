@@ -1,0 +1,23 @@
+-------- what I Learn Today --------
+
+I learnt many services of AWS in the Morning session like 
+Networking services , Security services , monitoring services , Database services ,
+AWS KMS , AWS WAF , AWS SHIELD , AWS GUARD DUTY,  AWS INSPECTOR
+RDS,  AURORA , DYNAMO DB , REDSHIFT
+CLOUD FRONT , ROUTE 53 , ALB / NLB , VPC 
+AWS DMS , AWS SNOWBALL 
+AWS GLUE
+AWS XRAY , CLOUD WATCH , CLOUD TRAIL
+CODE PIPELINE , CODE BUILD , CODE DEPLOY , CODE COMMIT 
+ S3 , EBS , EFS
+EC2 , LAMBDA , ELASTIC BEANSTALK , ECS / EKS , AWS BATCH 
+AWS SYSTEM MANAGER
+
+
+
+----------  Tomorrow Task  --------
+
+Docker ,  I  will learn. 
+
+
+  

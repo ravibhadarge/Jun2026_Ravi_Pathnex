@@ -1,0 +1,13 @@
+-------------- What I Learn Today -------------
+About ELK Stack 
+Elastic Search 
+Log stash
+Kibana
+
+for logs 
+monitoring Tools 
+ Learn all definitions and their Working Flow 
+
+-------------------- Tomorrow Task --------
+Kafka 
+monitoring Tool

@@ -1,0 +1,19 @@
+----------- What I Learnt Today --------------
+
+Made 3 server through Terraform
+install Ansible one of them and make Master 
+then install Prometheus and Grafana rest of them thorugh ansible 
+and Test 
+monitor 
+and send data to Promethrus and
+make Charts on Grafana
+
+install Node Exporter
+
+
+-------------- Tomorrow Task ------------
+
+ELK Stack 
+Elastic Search
+Log stash 
+Kibana 

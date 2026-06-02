@@ -1,0 +1,27 @@
+------------ What I Learn Today ----------
+KAFKA
+what is Kafka
+Apache Kafka is a distributed streaming platform designed to handle 
+high-throughput , fault-tolerant and real-time data feeds.
+
+Kafka is often used for building real time data pipeline and streaming Application .
+It can be thought of as a messaging systems or commits logs that allow to store data in durable , fault-tolerant and scalable manner.
+
+Kafka's Architecture based on several key components including Providers, Consumers and Metadata in a newer Version .
+
+Key Components of Kafka architecture 
+ Providers
+Consumers
+Brokers
+Topics
+Partitions
+Zookeeper
+
+
+------------ Tomorrow Task ---------
+Security Tools 
+SAST
+DAST
+SSL Certificate
+
+

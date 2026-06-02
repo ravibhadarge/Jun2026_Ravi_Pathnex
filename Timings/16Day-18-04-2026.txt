@@ -1,0 +1,45 @@
+----------------   What I Learn Today   ----------------
+
+Probes are for health of application container 
+1. liveness probes - is it alive or not
+2. Readiness Probe - is it ready to serve user
+3. Start up probe - Should it be restarted
+
+Helm ---> it is atool to manage k8s application ,
+Helm is like a package manager for k8s like apt for ubuntu , yum for redhat ,  brew for mac os
+ 
+Componenets ----> helm client, helm chart , helm repository , helm release 
+
+why use Helm ----> for simplifies deployment , version control , cofiguration management , reusable and shareable
+how Helm works ----> 1. creating a helm chart , 2. Installing a chart , 3. upgrading and managing releases
+
+2 ways to deploy application --->
+1. Standard Production flow using NGINX INGRESS 
+2. Service MEsh flow using ISTIO
+
+1. nGINX INGRESS 
+When we deploy our application using k8s deploymet ,
+then we expose our application internally using Cluster IP Service 
+next we install NGINX INGRESS CONTROLLER inside Cluster , 
+when we install nginx ingress controller , a cloud load balancer is automatically provisioned ,
+then we map domain name to load balancer IP using DNS 
+after that we create a Ingress resource to define routing rules 
+Finally Request flow through the system in this order .
+
+2 Service MEsh flow using ISTIO 
+first we deploy our application using deployment , but here each pod get a sidecar proxy,
+then we expose our application internally using Cluster IP Service 
+nexxt we install ISTIO which set up the Service MEsh inside the cluster ,
+Instead of NGINX INGRESS , we use ISTIO INGRESS GATEWAY
+A cloud Load Balancer is created and attached to ISTIO Gateway 
+then we map domain to Load Balancer using DNS 
+INstead of Ingress resource ,  ISTIO uses Virtual Service for routing .
+
+---------------     Tomorrow Task ----------
+
+k8s practicals ----> crash loop back error and other trouble shooting part 
+
+ARGO CD  , I will learn . 
+
+
+

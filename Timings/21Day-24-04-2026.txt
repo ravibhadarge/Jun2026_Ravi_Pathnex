@@ -1,0 +1,12 @@
+------------- What I Learn Today ---------
+Learn Ci/Cd Pilpeline 
+install Jenkins through ansible
+run springboot application through script 
+ansible and create pipeline 
+build now 
+
+
+--------- Tomorrow Task ------
+Monitoring Tool 
+
+

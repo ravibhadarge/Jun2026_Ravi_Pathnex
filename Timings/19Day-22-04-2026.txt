@@ -1,0 +1,34 @@
+----------What I Learn Today   -------
+Terraform Commands 
+terraform init
+terraform validate 
+terraform fmt
+terraform plan
+terraform apply 
+terraform destroy
+
+Variables -----> Variables are the those values which we give to terraform so that you can use same code in different environment .
+
+Variables make the terraform configuration Dynamic and Reusable.
+
+Outputs ----> Terraform creates output and show its value.
+
+LifeCycle Rules 
+Life Cycle rules in terraform is used to control how a resource is created, updated and dstroyed allowing customisation of default behaviour during infrastructure changes.
+
+LifeCycle informs the Terraform how to handle resources when change come in resource .
+
+Default Behaviour -----> it deletes old resource first and then create new one ,
+it creates Downtime.
+
+Some LifeCycle rules 
+
+1. create_before_delete
+2. prevent_destroy
+3. ignore_changes
+4. replace_traggered_by
+
+
+---------- Tomorrow Task  ------
+
+Ansible

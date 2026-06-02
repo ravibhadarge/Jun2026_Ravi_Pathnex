@@ -1,0 +1,13 @@
+--------- What I Learn Today ----------
+Ansible 
+how to configure ansible and make control node
+make targeted node
+how to create inventory 
+how to create playbook
+
+
+--------- Tomorrow Task --------
+
+CI/Cd 
+
+
